@@ -1,0 +1,3 @@
+/Users/adilgadi/Desktop/CPP Projects/C_CopyFiles/cmake-build-debug/CMakeFiles/C_CopyFiles.dir
+/Users/adilgadi/Desktop/CPP Projects/C_CopyFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adilgadi/Desktop/CPP Projects/C_CopyFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
